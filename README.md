@@ -12,14 +12,6 @@ Projeto da [Trybe](https://www.betrybe.com/) - Bloco 23 - REST API para gestão 
 
 API RESTful para uma aplicação de gerenciamento de vendas utilizando a arquitetura MSC (model-service-controller).
 
-<details>
-  <summary><strong>🏆 Meu desempenho</strong></summary><br />
-
-  <img src="project-infos/requisitos-store-manager.png"/>
-  <img src="project-infos/testes-de-cobertura.png"/>
-</details>
-
-
 ## 🚀 Tecnologias
 > Este projeto foi desenvolvido com:
 
