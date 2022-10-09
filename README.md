@@ -1,9 +1,4 @@
 # Português 🇧🇷🇵🇹
-
-<details>
-  <summary>
-    Saiba mais
-  </summary>
   
   # Store Manager
 Projeto da [Trybe](https://www.betrybe.com/) - Bloco 23 - REST API para gestão de loja virtual feita com Node.js.
